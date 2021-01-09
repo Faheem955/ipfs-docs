@@ -166,7 +166,7 @@ You should now have a folder that looks something like this:
 Now that you've got the project ready, we can add things to IPFS using the IPFS Desktop application. Instead of adding the files individually, we can add the whole project folder, and the IPFS Desktop app will take care of the rest for us!
 
 1. Open the IPFS Desktop application and select **Add** > **Folder**.
-1. Select the `multi-page-website` folder. Once it's loaded you should be able to see the folder within the application:
+1. Select the `multi-page-first-step` folder. Once it's loaded you should be able to see the folder within the application:
 
    ![The IPFS Desktop application with the multi-page project folder showing.](./images/multipage-website/ipfs-desktop-with-multi-page-folder-showing.png)
 
